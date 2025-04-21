@@ -1,0 +1,93 @@
+
+#search {
+    padding-left: 10px;
+    border-radius: 14px;
+    position: relative;
+    background-color: rgb(214, 209, 209,0.1);
+    font-size: large;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 6px;
+}
+
+#searchicon {
+    position: absolute;
+    margin-top: 12px;
+    left: 250px;
+}
+#search1{
+    border-radius: 50px;
+    font-size: large;
+    width: 75%;
+    border: none;
+    background-color: rgba(214, 209, 209, 0.119);
+    text-align: center;
+    margin-left: 10px;
+}
+#foto{
+    position: relative;
+    
+}
+#btn{
+    position: absolute;
+    top: 210px;
+    margin-left: 40px;
+}
+#tittle
+{
+    margin-left: 15px;
+    padding-top: 20px;
+}
+#foto1{
+    position: relative;
+}
+#gopi1
+{
+    position: absolute;
+    top: 25px;
+    border-radius: solid;
+    left: 15px;
+}
+#foto2{
+    position: relative;
+}
+#gopi2
+{
+    position: absolute;
+    top: 25px;
+    border-radius: solid;
+    left: 15px;
+}
+#foto3{
+    position: relative;
+}
+#gopi3
+{
+    position: absolute;
+    top: 25px;
+    border-radius: solid;
+    left: 15px;
+}
+#overflow{
+    overflow-y: scroll;
+    height: 100vh;
+}
+.overflow{
+    overflow-y: scroll;
+    height: 100vh;
+}
+#icon{
+    float: left;
+}
+.dot{
+    float: right;
+}
+a:hover{
+    background-color: rgb(237, 226, 226);
+    font-size: 30px;
+    width: 50px;
+}
+body {
+    overflow-x: hidden;
+    
+}
